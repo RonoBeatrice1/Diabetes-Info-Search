@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Understanding Diabetes",
+    "content": "Diabetes is a chronic medical condition characterized by high blood sugar levels. There are two main types of diabetes: type 1 and type 2."
+  },
+  {
+    "title": "Type 1 Diabetes",
+    "content": "Type 1 diabetes is an autoimmune disease where the immune system attacks and destroys insulin-producing beta cells in the pancreas. People with type 1 diabetes require insulin injections to manage their blood sugar levels."
+  },
+  {
+    "title": "Type 2 Diabetes",
+    "content": "Type 2 diabetes is the most common form of diabetes. It usually develops in adulthood and is often associated with lifestyle factors such as poor diet, lack of exercise, and obesity. Treatment includes lifestyle changes, oral medications, and insulin in some cases."
+  },
+  {
+    "title": "Diabetes Symptoms",
+    "content": "Common symptoms of diabetes include increased thirst, frequent urination, unexplained weight loss, fatigue, blurred vision, and slow wound healing."
+  },
+  {
+    "title": "Diabetes Diet",
+    "content": "A balanced diet is crucial for managing diabetes. It's essential to monitor carbohydrate intake, choose complex carbohydrates, and avoid sugary foods and drinks. A dietitian can help create a personalized meal plan."
+  },
+  {
+    "title": "Exercise and Diabetes",
+    "content": "Regular exercise helps in controlling blood sugar levels. Aim for at least 150 minutes of moderate-intensity aerobic activity per week, along with strength training exercises."
+  },
+  {
+    "title": "Diabetes Complications",
+    "content": "Untreated or poorly managed diabetes can lead to complications such as heart disease, stroke, kidney disease, nerve damage, and eye problems. Regular medical check-ups are essential to detect and manage these complications."
+  },
+  {
+    "title": "Medications for Diabetes",
+    "content": "There are various medications available to manage diabetes, including insulin, oral medications like metformin, and injectable drugs. The choice of medication depends on the type and severity of diabetes."
+  },
+  {
+    "title": "Monitoring Blood Sugar",
+    "content": "People with diabetes should regularly monitor their blood sugar levels using glucose meters. Keeping blood sugar within the target range is critical for diabetes management."
+  }
+]
